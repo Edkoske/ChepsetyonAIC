@@ -7,7 +7,7 @@
             midweek_service: "Wednesday 6:00 PM",
             contact_phone: "+254 712 345 678",
             contact_email: "info@aicchepsetyon.org",
-            contact_location: "Chepsetyon, Nandi County, Kenya"
+            contact_location: "Chepsetyon, Kericho County, Kenya"
         };
 
         let currentTestimonial = 0;
